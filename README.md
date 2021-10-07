@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Szymon, Backe-endd](https://assets.selleo.com/banners/slach.svg)](https://selleo.com/)
 
 <!--
