@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Szymon, Backe-endd](https://assets.selleo.com/banners/slach.svg)](https://selleo.com/)
+
 <!--
 **synion/synion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
